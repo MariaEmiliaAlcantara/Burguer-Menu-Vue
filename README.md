@@ -26,3 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📷 Telas do aplicativo
 
 - ### Tela principal
+![burguer-vue-main](https://user-images.githubusercontent.com/104785776/203171202-dc1c917e-0716-4d74-a84f-1b6d13def94a.png)
+
+- ### Monte o seu hambúrguer
+![burguer-vue-make](https://user-images.githubusercontent.com/104785776/203171237-0092f720-c6eb-40b7-a797-01e3457dc907.png)
+
+- ### Pedidos realizados
+![orders](https://user-images.githubusercontent.com/104785776/203171269-85fcee73-c84c-4b2f-8d01-7ca83ddf7db1.png)
+
